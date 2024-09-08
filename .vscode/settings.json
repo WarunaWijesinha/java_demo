@@ -1,0 +1,11 @@
+{
+  "azureFunctions.deploySubpath": "java/target/azure-functions/prg.prem-1723649437360",
+  "azureFunctions.scmDoBuildDuringDeployment": true,
+  "azureFunctions.pythonVenv": ".venv",
+  "azureFunctions.projectLanguage": "Java",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.projectLanguageModel": 2,
+  "azureFunctions.javaBuildTool": "maven",
+  "azureFunctions.preDeployTask": "package (functions)"
+}
